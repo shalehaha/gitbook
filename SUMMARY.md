@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* Analytics
+* [Analytics](analytics.md)
+* Untitled
 
